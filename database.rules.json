@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "amigoSecretoV1": {
+      ".read": "auth != null",
+      ".write": "auth != null"
+    }
+  }
+}
